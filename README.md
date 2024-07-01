@@ -1,7 +1,7 @@
 # selenium-login-upload-functional-test
 ### This will be a test to check the functional flow of the application using Selenium Web Drivers
 
-This will be a test in which we will log in to a web application using the supplied credentials and upload an XLS file that we will share. Once uploaded, there will be validations that need to be checked on the page, and we require a video of the whole running process and a screenshot of the final output received. 
+This will be a test in which we will log in to a web application using the credentials and upload an XLS file
 
 ### Input
 
