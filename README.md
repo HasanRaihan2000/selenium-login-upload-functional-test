@@ -46,7 +46,7 @@ This repository contains a Selenium WebDriver script written in Python to automa
 - `script.py`: The main automation script.
 
 ## Screenshots
-- Screenshots are saved in the `screenshots` folder with a timestamp.
+- Screenshots are saved 
 
 ## Note
 - Ensure the element locators (like class names and XPaths) used in the script match the current structure of the web application. Update them if necessary.
